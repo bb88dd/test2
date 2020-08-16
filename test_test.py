@@ -23,4 +23,9 @@ df4 = pd.DataFrame({'a': [1, 2, 3],
 
 print(df4)
 
+# SOME text
+
+x = [1, 2, 3, 4]
+y = [1, 2, 3, 4]
+
 # done
